@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "puppeteer": "^22.11.2"
+  },
+  "name": "puppeteer_to_pdf",
+  "version": "0.1.0",
+  "description": "Simple Hello World PDF generator using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PDF",
+    "puppeteer",
+    "node"
+  ],
+  "author": "Orange Kiwi",
+  "license": "ISC",
+  "type": "module"
+}
